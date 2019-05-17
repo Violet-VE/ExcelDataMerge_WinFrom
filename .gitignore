@@ -1,0 +1,6 @@
+
+.gitattributes
+
+ExcelDataMerge_Air\obj\
+.vs
+.git

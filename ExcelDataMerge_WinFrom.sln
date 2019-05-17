@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDataMerge_Air", "ExcelDataMerge_Air\ExcelDataMerge_Air.csproj", "{C6FB6FB0-AA30-43B7-A3B1-FE9878F74A08}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExcelDataMerge", "ExcelDataMerge\ExcelDataMerge.vdproj", "{3D8B2BB5-2FAC-462B-8963-B4146BEA343D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FB6FB0-AA30-43B7-A3B1-FE9878F74A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FB6FB0-AA30-43B7-A3B1-FE9878F74A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FB6FB0-AA30-43B7-A3B1-FE9878F74A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FB6FB0-AA30-43B7-A3B1-FE9878F74A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8B2BB5-2FAC-462B-8963-B4146BEA343D}.Debug|Any CPU.ActiveCfg = Debug
+		{3D8B2BB5-2FAC-462B-8963-B4146BEA343D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C9A135-9BD7-45F1-A6E6-3EDAE5994D86}
+	EndGlobalSection
+EndGlobal
